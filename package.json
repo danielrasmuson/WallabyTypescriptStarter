@@ -1,0 +1,10 @@
+{
+  "name": "LiftFileUpload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Rasmuson <dan123911@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
