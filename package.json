@@ -5,6 +5,9 @@
   "author": "Daniel Rasmuson <dan123911@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jasmine": "^2.5.2"
+    "jasmine": "^2.5.2",
+    "rollup-plugin-commonjs": "^5.0.5",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-typescript": "^0.8.1"
   }
 }
