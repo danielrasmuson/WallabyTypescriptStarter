@@ -1,4 +1,3 @@
 mkdir -p dist
-rollup src/bootstrap.js -o dist/bundle.js --format=cjs
-rollup src/bootstrap-tests.js -o dist/bootstrap-tests.js --format=cjs
+rollup -c > dist/bundle.js
 cp -r src/* dist/
