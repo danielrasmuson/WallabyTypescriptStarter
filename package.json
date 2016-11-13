@@ -10,5 +10,8 @@
     "rollup-plugin-commonjs": "^5.0.5",
     "rollup-plugin-node-resolve": "^2.0.0",
     "rollup-plugin-typescript": "^0.8.1"
+  },
+  "scripts": {
+    "build": "rollup -c > dist/bundle.js"
   }
 }
